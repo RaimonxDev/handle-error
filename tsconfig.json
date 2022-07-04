@@ -11,6 +11,12 @@
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
     "sourceMap": true,
+    "paths": {
+      "ngx-network-error-handler": [
+        "dist/ngx-network-error-handler/ngx-network-error-handler",
+        "dist/ngx-network-error-handler"
+      ]
+    },
     "declaration": false,
     "downlevelIteration": true,
     "experimentalDecorators": true,
